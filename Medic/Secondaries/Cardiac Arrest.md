@@ -35,8 +35,8 @@ Type: Medigun
 • Conversely, the Medic will gain 25% damage resistance. Ditto backstab damage.
 • All resisted damage will be applied to the patient and Medic after the übercharge ends.
 • Takes approximately 5s to gain full übercharge off of an already übercharged patient.
-• Can postpone übercharge ending by triggering it while already is ready (again). This can be done up to 5 times, theoretically postponing übercharge to 3 times the length of a normal über. This will also postpone the accumulated damage.
-• If the accumulated damage were to kill, you or your patient will explode in a cloud of blood and gibs.
+• Can postpone übercharge ending by triggering it while ready (again). This can be done up to 5 times, theoretically postponing übercharge to 3 times the length of a normal über. This will also postpone the accumulated damage.
+• If the accumulated damage were to kill, you and/or your patient will explode in a cloud of blood and gibs.
 ```
 Having the possibility of postponing your übercharge ending by a lot at the cost of still being able to die during übercharge, and taking all resisted damage after it ends is very much a double-edged sword.
 
