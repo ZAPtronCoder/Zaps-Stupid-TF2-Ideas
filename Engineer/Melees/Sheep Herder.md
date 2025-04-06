@@ -37,4 +37,7 @@ Type: Wrench
 • Alt-Fire causes the player to do a heavy melee swing attack, giving them a guarenteed melee Mini-Crit.
 • This Alt-Fire has a 5s cooldown dictated by a meter that is displayed where the ammo counter would be while holding the melee.
 • Missing any melee swing (Alt-Fire or not) causes the player to be MfD for 5s.
+• Wrench looks like a pipe wrench, the handle would be team colored.
+• Sentry design would be inspired by the Laser Cannon dartling gunner gun from BTD6 (funny, I know) and the Anti-Mass Spectrometer from Half-Life.
+• Sentry would have glowing details similar to that of the teleporter building.
 ```
