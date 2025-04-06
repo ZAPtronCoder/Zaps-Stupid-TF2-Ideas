@@ -17,7 +17,6 @@ Type: Wrench
 **`Additional Info:`**
 ```diff
 + +50% faster sentry turn speed
-- -50% sentry fire rate
 ```
 ```
 • Sentry fires unreflectable laser projectiles (at ~4500hu/s, no arc) that do heavy damage with slower fire rate.
