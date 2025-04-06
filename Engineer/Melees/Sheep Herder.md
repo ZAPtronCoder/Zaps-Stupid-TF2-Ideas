@@ -19,7 +19,7 @@ Type: Wrench
 + +50% faster sentry turn speed
 ```
 ```
-• Sentry fires unreflectable laser projectiles (at ~4500hu/s, no arc) that do heavy damage with slower fire rate.
+• Sentry fires unreflectable laser projectiles (at ~3000hu/s, no arc) that do heavy damage with slower fire rate.
 • Sentry laser projectile has no damage fall-off.
 • LEVEL 1:
   ◦ Base Damage: 35
